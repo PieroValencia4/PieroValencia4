@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>Hi there, I'm Piero Valencia</i> 🔭
+  <i>Hi there, I'm Piero Valencia</i> 🪁
 </h1>
 
 <!--
