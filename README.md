@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ Hi there, **I'm Piero Valencia**, a straightforward programmer that started in :purple_heart: 2018 ✨
+  ✨ <i>Hi there, I'm Piero Valencia, a straightforward programmer that started in :purple_heart: 2018 </i> ✨
 </h1>
 
 <!--
